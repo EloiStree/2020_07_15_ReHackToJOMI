@@ -1,0 +1,51 @@
+FTL 2 JOMI,,,,,
+Label,In-Game,Chat Shortcut,Chat full text,Jomi,SendType
+Switch pause,Space,,Pause,Space↕,shortcut
+Escape,Escape,,Escape,Escaê↕,shortcut
+Close door,X,,Close Door,X↕,shortcut
+Open door,Z,,Opne Door,Z↕,shortcut
+Send crew to position,Enter,,Crew Position,Enter↕,shortcut
+Save crew position,/,,Crew Save,,shortcut
+Switch autofire ,V,,Autofire,V↕,shortcut
+Set weapon on,1,w1on,weapon 1 on,NP1↕,shortcut
+Set Weapon shift,Shift+1,w1off,weapon 1 off,Shift+1,shortcut
+Set weapon on,1,w2on,weapon 2 on,NP2↕,shortcut
+Set Weapon shift,Shift+1,w2off,weapon 2 off,Shift+2,shortcut
+Set weapon on,1,w3on,weapon 3 on,NP3↕,shortcut
+Set Weapon shift,Shift+1,w3off,weapon 3 off,Shift+3,shortcut
+Set weapon on,1,w4on,weapon 4 on,NP4↕,shortcut
+Set Weapon shift,Shift+1,w4off,weapon 4 off,Shift+4,shortcut
+,,,,,shortcut
+Add power to weapon,W,,Weapon +,W↕,shortcut
+Remove power to weapon,Shift+W,,Weapon -,Shift+W,shortcut
+Add healto weapon,F,,Heal +,F↕,shortcut
+Remove heal to weapon,Shift+F,,Heal -,Shift+F,shortcut
+Select option 1,1,1,,1↕,shortcut
+Select option 2,2,2,,2↕,shortcut
+Select option 3,3,3,,3↕,shortcut
+Select option 4,4,4,,4↕,shortcut
+Select option 5,5,5,,5↕,shortcut
+Select option 6,6,6,,6↕,shortcut
+Select option 7,7,7,,7↕,shortcut
+Select option 8,8,8,,8↕,shortcut
+Select option 9,9,9,,9↕,shortcut
+Select option 0,0,0,,0↕,shortcut
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Move Mouse center,Nothing,Mouse Center,,mm:0.5:0.5,cmd

@@ -1,0 +1,27 @@
+
+{                                                                                
+  "name": "be.eloistree.rehacktojomi",                              
+  "displayName": "Re Hack To JOMI",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allow to relay the stream message of the community to input on your computer by providing a list of authorized shortcuts.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{
+  "be.eloistree.javaopenmacroinput":"0.0.1",
+  "be.eloistree.rehackunitycore":"0.0.1",
+  "be.eloistree.license":"0.0.1"
+  },     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2020_07_ReHackToJOMI.git",
+"footprint":"",
+"revision":"344ce0f7e6ecaf7fb1818867921686d598e09f07"},     
+  "category": "Script"                   
+} 

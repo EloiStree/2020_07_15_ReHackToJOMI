@@ -1,0 +1,83 @@
+Labeld, InGame, Short,Long, JOMI↑↓↕, TypeSend
+Save Crew Position,/,,,,Shortcut
+Send Crew to position,Enter,Standby,Standby Crew,Enter↕,Shortcut
+Menu Spaceship,U,Info,Info Spaceshit,U↕,Shortcut
+Close Door,x,Close,Close Door,x↕,Shortcut
+Open Door,z,Open,Open Door,z↕,Shortcut
+Totaly Open door,z z,Open,Open All,z↕z↕,Shortcut
+Crew 1,F1,Crew 1,c1,F1↕,Shortcut
+Crew 2,F2,Crew 2,c2,F2↕,Shortcut
+Crew 3,F3,Crew 3,c3,F3↕,Shortcut
+Crew 4,F4,Crew 4,c4,F4↕,Shortcut
+Crew 5,F5,Crew 5,c5,F5↕,Shortcut
+Crew 6,F6,Crew 6,c6,F6↕,Shortcut
+Crew 7,F7,Crew 7,c7,F7↕,Shortcut
+Crew 8,F8,Crew 8,c8,F8↕,Shortcut
+Select all,q,Creaw All,ca,q↕,Shortcut
+Select alien ability,p,Crew power,cp,p↕,Shortcut
+Jump Map,j,Jump,map,j↕,Shortcut
+Inventory Weapon,i,Inventory,i,i↕,Shortcut
+Clocking,C,,Clocking,c↕,Shortcut
+Teleport Send,T,Teleport,ts,t↕,Shortcut
+Teleport Return,R,Return,tr,r↕,Shortcut
+Start hacking,N,Hack,h,n↕,Shortcut
+Mind Controle,M,Mind controle,mc,m↕,Shortcut
+Activate Battery,B,Use battery,battery,b↕,Shortcut
+Auto Fire,V,Auto fire,fire,v↕,Shortcut
+Weapon 1,1,Weapon 1 On,w1on,1↕,Shortcut
+Weapon 2,2,Weapon 2 On,w2on,2↕,Shortcut
+Weapon 3,3,Weapon 3 On,w3on,3↕,Shortcut
+Weapon 4,4,Weapon 4 On,w4on,4↕,Shortcut
+Drone 1,5,Drone 1 On,d1on,5↕,Shortcut
+Drone 2,6,Drone 2 On,d2on,6↕,Shortcut
+Drone 3,7,Drone 3 On,d3on,7↕,Shortcut
+Weapon 1 off,shift+1,Weapon 1 Off,w1off,Shift+1,Shortcut
+Weapon 2 off,shift+2,Weapon 2 Off,w2off,Shift+2,Shortcut
+Weapon 3 off,shift+3,Weapon 3 Off,w3off,Shift+3,Shortcut
+Weapon 4 off,shift+4,Weapon 4 Off,w4off,Shift+4,Shortcut
+Drone 1 off,shift+5,Drone 1 Off,d1off,Shift+5,Shortcut
+Drone 2 off,shift+6,Drone 2 Off,d2off,Shift+6,Shortcut
+Drone 3 off,shift+7,Drone 3 Off,d3off,Shift+7,Shortcut
+Power Shield,A,Shield +,,a↕,Shortcut
+Power Engines,S,Engine +,,s↕,Shortcut
+Power Oxygen,O,Oxygen +,,f↕,Shortcut
+Power Clone Med,D,Heal +,Med -,d↕,Shortcut
+Power Clone Med,D,Clone +,,d↕,Shortcut
+Power Teleport,G,Teleport +,,g↕,Shortcut
+Power Cloaking,H,Cloacking +,,h↕,Shortcut
+Power Mind,K,Mind +,,k↕,Shortcut
+Power Hacking,L,Hack +,,l↕,Shortcut
+Power artillery,Y,Artillery +,Arti +,y↕,Shortcut
+Power Weapons,W,Weapon +,,w↕,Shortcut
+Power Drones,E,Drone +,,e↕,Shortcut
+Power Shield off,shift+A,Shield -,,shift+q,Shortcut
+Power Engines  off,shift+S,Engine -,,shift+s,Shortcut
+Power Oxygen  off,shift+O,Oxygen -,,shift+f,Shortcut
+Power Clone Med  off,shift+D,Heal -,Med -,shift+d,Shortcut
+Power Teleport  off,shift+G,Teleport -,,shift+g,Shortcut
+Power Cloaking  off,shift+H,Cloaking -,,shift+h,Shortcut
+Power Mind  off,shift+K,Mind -,,shift+k,Shortcut
+Power Hacking  off,shift+L,Hack -,,shift+l,Shortcut
+Power artillery  off,shift+Y,Artillery -,Arti -,shift+y,Shortcut
+Power Weapons  off,shift+W,Weapon -,,shift+w,Shortcut
+Power Drones  off,shift+E,Drone -,,shift+e,Shortcut
+Menu 1.,1,1,1.,1↕,Shortcut
+Menu 2.,2,2,2.,2↕,Shortcut
+Menu 3.,3,3,3.,3↕,Shortcut
+Menu 4.,4,4,4.,4↕,Shortcut
+Menu 5.,5,5,5.,5↕,Shortcut
+Menu 6.,5,6,6.,6↕,Shortcut
+Menu 7.,6,7,7.,7↕,Shortcut
+Full fire,6,7,7.,1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕,Shortcut
+Inverse full fire,6,7,7.,Ctrl↓ 1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕ Ctrl↑,Shortcut
+Full drone.,6,7,7.,5↕ Click↕ 6↕ Click↕ 7↕ Click↕,Shortcut
+Inverse full drone,6,7,7.,Ctrl↓ 5↕ Click↕ 6↕ Click↕ 7↕ Click↕ Ctrl↑,Shortcut
+Pause,Pause,p,pause,Space↕,Shortcut
+Pause,Pause,p1,pause1,Space↕,Shortcut
+Pause,Pause,p2,pause2,Space↕,Shortcut
+
+
+
+
+
+

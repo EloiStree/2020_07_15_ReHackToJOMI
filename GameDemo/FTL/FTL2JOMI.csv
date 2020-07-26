@@ -61,6 +61,31 @@ Power Hacking  off,shift+L,Hack -,,shift+l,Shortcut
 Power artillery  off,shift+Y,Artillery -,Arti -,shift+y,Shortcut
 Power Weapons  off,shift+W,Weapon -,,shift+w,Shortcut
 Power Drones  off,shift+E,Drone -,,shift+e,Shortcut
+
+Power Shield,A,Shield on,,a↕,Shortcut
+Power Engines,S,Engine on,,s↕,Shortcut
+Power Oxygen,O,Oxygen on,,f↕,Shortcut
+Power Clone Med,D,Heal on,Med -,d↕,Shortcut
+Power Clone Med,D,Clone on,,d↕,Shortcut
+Power Teleport,G,Teleport on,,g↕,Shortcut
+Power Cloaking,H,Cloacking on,,h↕,Shortcut
+Power Mind,K,Mind on,,k↕,Shortcut
+Power Hacking,L,Hack on,,l↕,Shortcut
+Power artillery,Y,Artillery on,Arti on,y↕,Shortcut
+Power Weapons,W,Weapon on,,w↕,Shortcut
+Power Drones,E,Drone on,,e↕,Shortcut
+Power Shield off,shift+A,Shield -,,shift+q,Shortcut
+Power Engines  off,shift+S,Engine -,,shift+s,Shortcut
+Power Oxygen  off,shift+O,Oxygen -,,shift+f,Shortcut
+Power Clone Med  off,shift+D,Heal -,Med -,shift+d,Shortcut
+Power Teleport  off,shift+G,Teleport -,,shift+g,Shortcut
+Power Cloaking  off,shift+H,Cloaking -,,shift+h,Shortcut
+Power Mind  off,shift+K,Mind -,,shift+k,Shortcut
+Power Hacking  off,shift+L,Hack -,,shift+l,Shortcut
+Power artillery  off,shift+Y,Artillery -,Arti -,shift+y,Shortcut
+Power Weapons  off,shift+W,Weapon -,,shift+w,Shortcut
+Power Drones  off,shift+E,Drone -,,shift+e,Shortcut
+
 Menu 1.,1,1,1.,1↕,Shortcut
 Menu 2.,2,2,2.,2↕,Shortcut
 Menu 3.,3,3,3.,3↕,Shortcut
@@ -68,10 +93,10 @@ Menu 4.,4,4,4.,4↕,Shortcut
 Menu 5.,5,5,5.,5↕,Shortcut
 Menu 6.,5,6,6.,6↕,Shortcut
 Menu 7.,6,7,7.,7↕,Shortcut
-Full fire,6,7,7.,1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕,Shortcut
-Inverse full fire,6,7,7.,Ctrl↓ 1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕ Ctrl↑,Shortcut
-Full drone.,6,7,7.,5↕ Click↕ 6↕ Click↕ 7↕ Click↕,Shortcut
-Inverse full drone,6,7,7.,Ctrl↓ 5↕ Click↕ 6↕ Click↕ 7↕ Click↕ Ctrl↑,Shortcut
+Full fire,,full fire,ff,1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕,Shortcut
+Inverse full fire,,inverse full fire,iff,Ctrl↓ 1↕ Click↕ 2↕ Click↕ 3↕ Click↕ 4↕ Click↕ Ctrl↑,Shortcut
+Full drone.,,full drone,ffd,5↕ Click↕ 6↕ Click↕ 7↕ Click↕,Shortcut
+Inverse full drone,,inverse full drone,iffd,Ctrl↓ 5↕ Click↕ 6↕ Click↕ 7↕ Click↕ Ctrl↑,Shortcut
 Pause,Pause,p,pause,Space↕,Shortcut
 Pause,Pause,p1,pause1,Space↕,Shortcut
 Pause,Pause,p2,pause2,Space↕,Shortcut
